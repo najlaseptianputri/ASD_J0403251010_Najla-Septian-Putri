@@ -1,0 +1,7 @@
+BRG001,Roti Cokelat,25
+BRG002,Air Mineral 600ml,50
+BRG003,Susu Kotak,15
+BRG004,Keripik Singkong,10
+BRG005,Biskuit Gandum,20
+BRG006,Kopi Kemasan,30
+BRG007,Teh Manis Botol,45
